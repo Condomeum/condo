@@ -1,0 +1,5 @@
+condo/settings.py
+*.pyc
+.project
+.pydevproject
+
